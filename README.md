@@ -1,7 +1,7 @@
 # pandas-challenge 
 ## *PyCitySchools*
 
-![education](Images/education_copy.png)
+![education](https://github.com/Kpearson72/pandas-challenge/blob/main/Images%20/education_copy.png)
 
 Images /education-copy.png
 
