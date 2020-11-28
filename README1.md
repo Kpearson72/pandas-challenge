@@ -1,13 +1,15 @@
 # pandas-challenge 
 ## *PyCitySchools*
 
-![education](Images/education-copy.png)
+![education] (Images/education-copy.png)
+
+Images /education-copy.png
 
 ### Challenge Taken:
 
 * Created a new repository called "pandas-challenge", then cloned it to my computer. 
 * Created a directory named PyCitySchools.
-* Added my Jupyter Notebook to this folder: [link to jupyter notebook](http://localhost:8888/?token=ce4524f738fe34f752bd26deb5a68449c37f6cb28e34b154)
+* Added my Jupyter Notebook to this folder: [link to jupyter notebook](http://127.0.0.1:8888/?token=ce4524f738fe34f752bd26deb5a68449c37f6cb28e34b154)
 .
 * Pushed changes/revisions to GitHub
 * Played the role of Chief Data Scientist for the local school district. I helped the school board and mayor to make strategic decisions regarding future school budgets and priorities.
@@ -35,11 +37,12 @@
 
 2. Analyzed the district-wide standardized test results - two observable trends.
 
-    * Trend 1  - Charter Schools with less student population tend to have a higher % Overall Passing scores for math and reading standarized tests than the higher populated District schools. This is observed by comparing the two tables for Top/Bottom Performing Schools (By % Overall Passing)
+    * Trend 1  - Charter Schools with less student population tend to have a higher % Overall Passing scores for math and reading standarized tests than the higher populated District schools. This is observed by comparing the two tables for Top/Bottom Performing Schools (By % Overall Passing).
+    Charter schools are top performers and District schools are bottom performers.
 
-    * Trend 2 - The test scores are not influenced by how much money a school receives for each student but rather the population size of the school. This is observed by Scores by School Spending table and Scores by School Size table.
+    * Trend 2 - The test scores are not influenced by how much money a school receives for each student but rather the population size of the school. This is observed by Scores by School Spending table and Scores by School Size table. Charter schools (top performers) have received less money than District schools.
 
-    Final Analysis - Population is a the key factor to a schools success of higher test scores. Crowded classrooms and schools give less indivdualized attention/help per student.
+    Final Analysis - Population is a the key factor to a school's success of higher test scores. Crowded classrooms and schools give less indivdualized attention/help per student.
 
 
 
