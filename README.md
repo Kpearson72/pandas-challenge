@@ -35,14 +35,13 @@ Images /education-copy.png
 
     *  Scores by School Type - create a table that breaks down school performances based on school type.
 
-2. Analyzed the district-wide standardized test results - two observable trends.
+2. Analyzed the district-wide standardized test results - observed two trends:
 
-    * Trend 1  - Charter Schools with less student population tend to have a higher % Overall Passing scores for math and reading standarized tests than the higher populated District schools. This is observed by comparing the two tables for Top/Bottom Performing Schools (By % Overall Passing).
-    Charter schools are top performers and District schools are bottom performers.
+    * Trend 1  - Charter Schools with a low student population tend to have a higher % Overall Passing scores for math and reading standarized tests than the higher populated District schools. This is observed by comparing the two tables for Top/Bottom Performing Schools (By % Overall Passing). Charter schools are top performers and District schools are bottom performers.
 
-    * Trend 2 - The test scores are not influenced by how much money a school receives for each student but rather the population size of the school. This is observed by Scores by School Spending table and Scores by School Size table. Charter schools (top performers) have received less money than District schools.
+    * Trend 2 - The test scores are not influenced by how much money a school receives for each student but rather the population size of the school. This is observed by Scores by School Spending table and Scores by School Size table. Charter schools (top performers) have generally received less money than District schools.
 
-    Final Analysis - Population is a the key factor to a school's success of higher test scores. Crowded classrooms and schools give less indivdualized attention/help per student.
+    ## Final Analysis - Population, whether low or high, is the key factor to a school's success or failure to achieving higher test scores. Crowded classrooms and schools give less indivdualized attention/help per student, resulting in low test scores for students.
 
 
 
