@@ -41,7 +41,8 @@
     * Trend 2 - The test scores are not influenced by how much money a school receives for each student but rather the population size of the school. This is observed by Scores by School Spending table and Scores by School Size table. Charter schools (top performers) have generally received less money than District schools.
 
     ## Final Analysis - Population, whether low or high, is the key factor to a school's success or failure to achieving higher test scores. Crowded classrooms and schools give less indivdualized attention/help per student, resulting in low test scores for students.
-
-
+________________________________________________________________
+### Please note: answer results that appear in GitHub are different to how they appeared in Jupyter Notebook. Please see screenshots of answers in Images folder
+________________________________________________________________
 
 
