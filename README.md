@@ -8,7 +8,7 @@
 
 * Created a new repository called "pandas-challenge", then cloned it to my computer. 
 * Created a directory named PyCitySchools.
-* Added my Jupyter Notebook to this folder: [link to jupyter notebook](https://github.com/Kpearson72/pandas-challenge/blob/main/PyCitySchools/PyCitySchools_starter-FINAL.ipynb)
+* Added my Jupyter Notebook to this folder: [link to jupyter notebook](https://nbviewer.jupyter.org/github/Kpearson72/pandas-challenge/blob/main/PyCitySchools/PyCitySchools_starter-FINAL.ipynb)
 .
 * Pushed changes/revisions to GitHub
 * Played the role of Chief Data Scientist for the local school district. I helped the school board and mayor to make strategic decisions regarding future school budgets and priorities.
@@ -41,8 +41,6 @@
     * Trend 2 - The test scores are not influenced by how much money a school receives for each student but rather the population size of the school. This is observed by Scores by School Spending table and Scores by School Size table. Charter schools (top performers) have generally received less money than District schools.
 
     ## Final Analysis - Population, whether low or high, is the key factor to a school's success or failure to achieving higher test scores. Crowded classrooms and schools give less indivdualized attention/help per student, resulting in low test scores for students.
-________________________________________________________________
-### Please note: answer results that appear in GitHub are different to how they appeared in Jupyter Notebook. Please see screenshots of answers in Images folder
-________________________________________________________________
+
 
 
