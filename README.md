@@ -3,7 +3,6 @@
 
 ![education](https://github.com/Kpearson72/pandas-challenge/blob/main/Images%20/education_copy.png)
 
-Images /education-copy.png
 
 ### Challenge Taken:
 
