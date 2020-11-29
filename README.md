@@ -8,7 +8,7 @@
 
 * Created a new repository called "pandas-challenge", then cloned it to my computer. 
 * Created a directory named PyCitySchools.
-* Added my Jupyter Notebook to this folder: [link to jupyter notebook]()
+* Added my Jupyter Notebook to this folder: [link to jupyter notebook](https://github.com/Kpearson72/pandas-challenge/blob/main/PyCitySchools/PyCitySchools_starter.ipynb)
 .
 * Pushed changes/revisions to GitHub
 * Played the role of Chief Data Scientist for the local school district. I helped the school board and mayor to make strategic decisions regarding future school budgets and priorities.
